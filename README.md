@@ -1,0 +1,1 @@
+# Logica2021.2-Conways_Game_Of_Life
